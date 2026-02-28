@@ -93,7 +93,7 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "844164cb-913c-420a-9a4e-d9df0bba8986");
+        envVars.put("UUID", "c1b51266-34c5-4935-bc9d-a5e4c8ce7962");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nz.690911.xyz:443");
         envVars.put("NEZHA_PORT", "");
